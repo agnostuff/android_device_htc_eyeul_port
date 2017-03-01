@@ -1,1 +1,1 @@
-add_lunch_combo cm_eyeul-userdebug
+add_lunch_combo lineage_eyeul-userdebug
