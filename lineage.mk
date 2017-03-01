@@ -22,7 +22,7 @@ $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
-PRODUCT_NAME := cm_eyeul
+PRODUCT_NAME := lineage_eyeul
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT="htc/htc_europe/htc_eyeul:5.0.2/LRX22G/504177.1:user/release-keys" \
